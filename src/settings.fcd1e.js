@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/MJ/Scenes/StartGame.fire",orientation:"landscape",jsList:[],bundleVers:{internal:"d17e2",resources:"a0724",main:"a4519"}};
